@@ -1,11 +1,8 @@
 /*Function declaration rules */
-function startFan() {
-    console.log('Stand up');
-    console.log('Walk towards the switch');
-    console.log('Press the switch');
-
+function functionName(parameter) {
+    // functionbody
+    // return
 }
 
 /* Call the function--  */
-startFan(); /* this is the function we need to call to display the output */
-
+var returnVAlue = functionName(value of parameter); 
