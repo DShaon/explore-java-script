@@ -11,7 +11,6 @@ function reverseMaker(string) {
 }
 
 
-
 var inputString = 'bangladesh';
 var reverseString = reverseMaker(inputString);
 console.log(reverseString)
