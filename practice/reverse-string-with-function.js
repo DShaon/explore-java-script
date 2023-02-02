@@ -11,6 +11,8 @@ function reverseMaker(string) {
 }
 
 
-var inputString = 'bangladesh';
+var inputString = 'bangladesh is a country';
 var reverseString = reverseMaker(inputString);
 console.log(reverseString)
+
+const characterSplit = lyrics.split(' ')
