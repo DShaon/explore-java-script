@@ -11,6 +11,7 @@ const phones = [
 
 function getPhone(phones) {
     var cheapestPhone = phones[0];
+    console.log(phones[0])
     for (i = 0; i < phones.length; i++) {
         var phone = phones[i];
         if (phone.price < cheapestPhone.price){
